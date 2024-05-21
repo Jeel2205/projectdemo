@@ -1,3 +1,3 @@
 # projectdemo
 This is first demo
-Auther- Jeel Patel
+Author- Jeel Patel
